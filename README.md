@@ -5,6 +5,6 @@ The excellent drag-n-drop email editor by [Unlayer](https://unlayer.com) as a [R
 Video Overview |
 :---: |
 [![React Email Editor](https://s3.amazonaws.com/unroll-assets/unrollyoutube.png)](https://www.youtube.com/watch?v=MIWhX-NF3j8) |
-*Watch video overview: https://youtu.be/MIWhX-NF3j8* |
+
 
 
